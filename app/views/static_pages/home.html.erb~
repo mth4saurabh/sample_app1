@@ -1,5 +1,5 @@
 <% provide(:title, 'Home') %>
-<h1>Shashanks scribbles</h1>
+<h1>Shashanks scribble</h1>
 <p>
   This is the home page for the stupid thoughts coming out my stupid illogical "brain" !
 </p>
